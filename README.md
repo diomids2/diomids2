@@ -25,8 +25,7 @@
 
 ![.NET](https://img.shields.io/badge/SQLServer-f1f1f1?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927) <br>
 
-![Claudiomir GitHub stats](https://github-readme-stats.vercel.app/api?username=diomids2&theme=dark&show_icons=true)
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diomids2&layout=compact&locale=pt-BR&show_icons=true&hide_border=true&hide_title=true&langs_count=6&theme=dark" /> <br>
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=diomids2&theme=dark&show_icons=true" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diomids2&layout=compact&locale=pt-BR&show_icons=true&hide_border=true&hide_title=true&langs_count=6&theme=dark" /> <br>
 
 
 ## Onde me encontrar 👇🏼
