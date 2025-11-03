@@ -1,6 +1,6 @@
 ### Olá 👋
 -------------------------------------------
-<img align="right" alt ="Hero-Diomi" src="https://media.discordapp.net/attachments/408023988766507011/984808535160389722/myheroeu.png" height="200"> 
+<img align="right" alt ="Hero-Diomi" src="[https://media.discordapp.net/attachments/408023988766507011/984808535160389722/myheroeu.png](https://media.discordapp.net/attachments/1425572824470392876/1434809529085857894/myhero.png?ex=6909ae01&is=69085c81&hm=27649b1cfb5a01d62b103d2a5951c0666c5a6985810ee60e94474abeffa500df&=&format=webp&quality=lossless)" height="200"> 
 
   * Me chamo Claudiomir, tenho 26 anos, e sou apaixonado por desenvolver soluções através da programação! 💜 
    
