@@ -1,6 +1,6 @@
 ### Olá 👋
 -------------------------------------------
-<img align="right" alt ="Hero-Diomi" src="https://media.discordapp.net/attachments/1425572824470392876/1434809529085857894/myhero.png?ex=6909ae01&is=69085c81&hm=27649b1cfb5a01d62b103d2a5951c0666c5a6985810ee60e94474abeffa500df&=&format=webp&quality=lossless" height="200"> 
+<img align="right" alt ="Hero-Diomi" src="https://media.discordapp.net/attachments/1425572824470392876/1442879737264341144/Designer__2_-removebg-preview.png?ex=692709f8&is=6925b878&hm=e327b490eb49773ef9cd8980848d4882f815e07ac7552a65a24530f38385b14b&=&format=webp&quality=lossless" height="200"> 
 
   * Me chamo Claudiomir, tenho 26 anos, e sou apaixonado por desenvolver soluções através da programação! 💜 
    
@@ -16,6 +16,7 @@
   
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-32363E?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![VUE](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 <!-- ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=32363E)  -->
@@ -33,7 +34,7 @@
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=diomids2&theme=dark&show_icons=true" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diomids2&layout=compact&locale=pt-BR&show_icons=true&hide_border=true&hide_title=true&langs_count=6&theme=dark" /> <br>
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=diomids2&theme=dark&show_icons=true" /><img height="150px" src="" /> <br>
 
 
 ## Onde me encontrar 👇🏼
